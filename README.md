@@ -2,7 +2,7 @@
 ### Anteproyecto-FCT Manuel Romero Garcia 2ºASIR
 
 
-![gatoyperro](./mascotas-perros-gatos.jpg)
+![gatoyperro](./IA.jpeg)
 
 
 #### Introducción del proyecto
