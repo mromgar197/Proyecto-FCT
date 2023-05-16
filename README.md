@@ -1,13 +1,13 @@
-# Aplicación de clasificadora de perros y gatos con IA, Python y Tensorflow
+# Bot de asistencia y aprendizaje con Botpress
 ### Anteproyecto-FCT Manuel Romero Garcia 2ºASIR
 
 
-![gatoyperro](./IA.jpeg)
+![IA](./IA.jpeg)
 
 
 #### Introducción del proyecto
 
-Mi proyecto consiste en la creación paso a paso de la programación utilizando Python y Tensorflow de una inteligencia artificial que puede reconocer en base a un entrenamiento previo con imagenes aportadas como datos de entrenamiento y también incluir al proyecto una investigación sobre futuros usos de las IA.
+Mi proyecto consiste en la creación paso a paso un chatbot que se encarge de gestionar y responder las preguntas o problemas que puedan surgir en un entorno de trabajo.
 
 #### Finalidad
 
@@ -15,7 +15,7 @@ La finalidad de mi proyecto es aclarar y demostrar la funcionalidad que pueden t
 
 #### Objetivos
 
-El objetivo es que la IA sea capaz de que cuando se le pase una imagen de un perro o un gato, tenga la capacidad de elegir respuesta correcta con un margen de error que sea lo menor posible, esto se tiene que conseguir con un entrenamiento previo en el que la IA debe de haber almacenado la información de suficientes imagenes para que pueda elegir con precisión aceptable.
+El objetivo es que la IA sea capaz de que cuando se le presenten situaciones o preguntas sea capaz de facilitar la información de la manera más precisa posible y pueda enseñar al personal nuevo o inexperto el entorno básico de trabajo de la empresa lo cual facilita los medios de adaptación y el tiempo y recursos que una empresa debe gastar en la gestión de la presentación de un entorno de trabajo que puede ser muy grande o complejo.
 
 Para comprobar su uso se habilitara una página (https, ya que de esta forma podremos utilizar tambien la camara de nuestro smartphone) en la que podremos comprobar el funcionamiento de la IA y también una presentación en la que explicar los conceptos fundamentales del funcionamiento de la misma.
 
@@ -61,12 +61,12 @@ Microsoft PowerPoint es una aplicación de presentaciones desarrollada por Micro
  
  El tiempo que lleva estudiar cómo funciona una inteligencia artificial (IA) depende del nivel de profundidad que se desea alcanzar, así como de los conocimientos previos y la dedicación del estudiante.
 
-Para entender el funcionamiento de una IA a un nivel superficial, se puede dedicar unas pocas semanas a aprender los conceptos básicos de aprendizaje automático y redes neuronales, así como a familiarizarse con las bibliotecas de aprendizaje automático como TensorFlow.
+Para entender el funcionamiento de una IA a un nivel superficial, se puede dedicar unas pocas semanas a aprender los conceptos básicos de aprendizaje automático y redes neuronales, así como a familiarizarse con las capacidades que ofrece Botpress.
  
  
-- _Importación de las librerias y instalación de todo el software necesario para el comienzo del proyecto._
+- _Mapa conceptual de las conversaciones y dialogos._
 
-En un par de hora debería poder tener todo el software y necesario descargado y instalado para su uso.
+En un par de hora debería poder tener todo el mapa al menos planteado y preparado para poder añadir más cosas si fuera necesario.
 
 
 - _Programación de la IA (Posiblemente, la parte principal del proyecto)._
@@ -76,12 +76,7 @@ Posiblemente de 2-3 semanas teniendo encuenta que voy a intentar ampliar el cód
 
 - _Creación del sitio web donde se va a implentar la IA._
 
-Con un par de días debería bastar para crear un sitio web bonito y a la altura de recibir a la poderosa IA que distigue gatos de perros y vicerversa.
-
-
-- _Portabilidad al uso en smartphones con el uso de su propia camara._
-
-Lo mismo con un par de días deberia poder tener listo la compatibilidad con las camaras de los smartphones.
+Con un par de días debería bastar para crear un sitio web bonito y a la altura de recibir como ejemplo al chatbot creado.
 
 
 - _Presentación sobre la IA y la página web._
